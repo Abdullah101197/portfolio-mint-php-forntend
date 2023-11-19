@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'The Bold Font';
+    src: url('TheBoldFont-Bold.woff2') format('woff2'),
+        url('TheBoldFont-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-Medium.woff2') format('woff2'),
+        url('FuturaPT-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-MediumObl.woff2') format('woff2'),
+        url('FuturaPT-MediumObl.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'The Bold Font';
+    src: url('TheBoldFont-Bold.woff2') format('woff2'),
+        url('TheBoldFont-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'United Sans Rg Bk';
+    src: url('UnitedSansReg-Black.woff2') format('woff2'),
+        url('UnitedSansReg-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'United Sans Rg Bd';
+    src: url('UnitedSansReg-Bold.woff2') format('woff2'),
+        url('UnitedSansReg-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'United Sans Rg Hv';
+    src: url('UnitedSansReg-Heavy.woff2') format('woff2'),
+        url('UnitedSansReg-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'United Sans Rg Lt';
+    src: url('UnitedSansReg-Light.woff2') format('woff2'),
+        url('UnitedSansReg-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'United Sans Rg Md';
+    src: url('UnitedSansReg-Medium.woff2') format('woff2'),
+        url('UnitedSansReg-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT Demi';
+    src: url('FuturaPT-DemiObl.woff2') format('woff2'),
+        url('FuturaPT-DemiObl.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT Extra';
+    src: url('FuturaPT-ExtraBold.woff2') format('woff2'),
+        url('FuturaPT-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT Extra';
+    src: url('FuturaPT-ExtraBoldObl.woff2') format('woff2'),
+        url('FuturaPT-ExtraBoldObl.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-Heavy.woff2') format('woff2'),
+        url('FuturaPT-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-HeavyObl.woff2') format('woff2'),
+        url('FuturaPT-HeavyObl.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-Light.woff2') format('woff2'),
+        url('FuturaPT-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-LightObl.woff2') format('woff2'),
+        url('FuturaPT-LightObl.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
